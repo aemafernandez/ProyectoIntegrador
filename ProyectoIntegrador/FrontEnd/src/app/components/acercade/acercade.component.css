@@ -1,0 +1,14 @@
+div{
+    background-color: darkkhaki;
+    text-align: center;
+    
+}
+#nombre{
+    font-weight: bold;
+}
+/*estilo foto perfil*/
+
+#fotodeperfil{
+    border-radius: 100%;
+}
+
